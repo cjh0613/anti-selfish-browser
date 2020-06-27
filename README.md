@@ -1,4 +1,6 @@
-# boycott-ie
+# boycott-IE
+This is the first open source project in the world that supports 109 languages to prompt users to stop using IE.
+
 As of January 12, 2016, Microsoft no longer provides corresponding support and updates for IE 11 and below. Without critical browser security updates, users’ computers may be vulnerable to attacks by harmful viruses, spyware, and other malicious software, which can steal or damage your business data and information. 
 
 And everyone has experienced the page loading speed of it.
