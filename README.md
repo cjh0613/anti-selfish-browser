@@ -25,6 +25,11 @@ Add between the `<head></head>` of the webpage source code:
 Welcome to submit versions in other languages by PR.
 
 ## Sample webpage
+
+[zh-CN/zh-Hans](https://boycott-ie.github.io/boycott-ie/html/zh-Hans/please-upgrade-your-browser.html)
+
+[zh-TW/zh-Hant](https://boycott-ie.github.io/boycott-ie/html/zh-Hant/please-upgrade-your-browser.html)
+
 [af](https://boycott-ie.github.io/boycott-ie/html/af/please-upgrade-your-browser.html)
 
 [sq](https://boycott-ie.github.io/boycott-ie/html/sq/please-upgrade-your-browser.html)
@@ -50,10 +55,6 @@ Welcome to submit versions in other languages by PR.
 [ca](https://boycott-ie.github.io/boycott-ie/html/ca/please-upgrade-your-browser.html)
 
 [ceb](https://boycott-ie.github.io/boycott-ie/html/ceb/please-upgrade-your-browser.html)
-
-[zh-CN](https://boycott-ie.github.io/boycott-ie/html/zh-CN/please-upgrade-your-browser.html)
-
-[zh-TW](https://boycott-ie.github.io/boycott-ie/html/zh-TW/please-upgrade-your-browser.html)
 
 [co](https://boycott-ie.github.io/boycott-ie/html/co/please-upgrade-your-browser.html)
 
