@@ -1,4 +1,6 @@
 # boycott-IE
+中文介绍请下拉
+## English
 This is the first open source project in the world that supports 109 languages to prompt users to stop using IE.
 
 When the IE browser (including the browser using the IE kernel) accesses the website, it will automatically jump to the browser upgrade page.
@@ -27,12 +29,11 @@ Add between the `<head></head>` of the webpage source code:
 <script src="https://boycott-ie.github.io/boycott-ie/boycott-ie.js"></script>
 ```
 Welcome to submit versions in other languages by PR.
-
+### Use your own server
+Clone this project to your own server, replace the domain name in `boycott-ie.js` and use
+  
 ## 中文
-当IE浏览器（包括使用IE内核的浏览器）访问网站的时候将自动跳转到浏览器升级提示页面。
-
-检测到使用IE浏览器，
-判断语言后自动跳转到提示页面
+当IE浏览器（包括使用IE内核的浏览器）访问网站的时候将判断用户语言后自动跳转到对应语言（支持109种语言）浏览器升级提示页面。
 
 我计划尽可能支持更多语言，使全世界开发者乐意去使用，以便世界各地的人们换用更先进的浏览器
 
@@ -46,8 +47,14 @@ Welcome to submit versions in other languages by PR.
  看到这个https://support.dmeng.net/upgrade-your-browser.html
  
  但是没有英文界面，于是开发此多语言（109语言）版本，欢迎各位PR
+ 
+ ### 使用您自己的服务器托管
+ clone本项目到您自己的服务器，替换`boycott-ie.js`中的域名并使用即可
 
 ## Sample webpage
+109种语言。自动判断您的语言：
+
+[109 languages. Automatically determine your language](https://boycott-ie.github.io/boycott-ie)
 
 [zh-CN/zh-Hans](https://boycott-ie.github.io/boycott-ie/html/zh-Hans/please-upgrade-your-browser.html)
 
