@@ -28,6 +28,25 @@ Add between the `<head></head>` of the webpage source code:
 ```
 Welcome to submit versions in other languages by PR.
 
+## 中文
+当IE浏览器（包括使用IE内核的浏览器）访问网站的时候将自动跳转到浏览器升级提示页面。
+
+检测到使用IE浏览器，
+判断语言后自动跳转到提示页面
+
+我计划尽可能支持更多语言，使全世界开发者乐意去使用，以便世界各地的人们换用更先进的浏览器
+
+### 使用方法：
+
+在网页源代码`<head></head>`间添加（尽量靠前）：
+```html
+<script src="https://boycott-ie.github.io/boycott-ie/boycott-ie.js"></script>
+```
+
+ 看到这个https://support.dmeng.net/upgrade-your-browser.html
+ 
+ 但是没有英文界面，于是开发此多语言（109语言）版本，欢迎各位PR
+
 ## Sample webpage
 
 [zh-CN/zh-Hans](https://boycott-ie.github.io/boycott-ie/html/zh-Hans/please-upgrade-your-browser.html)
