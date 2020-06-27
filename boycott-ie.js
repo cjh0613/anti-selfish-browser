@@ -4,7 +4,7 @@ langtwo = lang.substr(0, 2);
 
 //Chinese
 if(langtwo == 'zh'){ if(lang == 'zh-Hant' || lang == 'zh-TW' || lang == 'zh-tw'){window.location.href="https://boycott-ie.github.io/boycott-ie/html/zh-Hant/please-upgrade-your-browser.html";}
- else{window.location.href="https://cjh0613.github.io/Boycott-IE/2/html/zh-Hans/please-upgrade-your-browser.html";}
+ else{window.location.href="https://boycott-ie.github.io/boycott-ie/html/zh-Hans/please-upgrade-your-browser.html";}
                    }
 //else
 else if(langtwo == 'af'){window.location.href="https://boycott-ie.github.io/boycott-ie/html/af/please-upgrade-your-browser.html";}
