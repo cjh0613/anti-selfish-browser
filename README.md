@@ -39,6 +39,8 @@ Welcome to submit versions in other languages by PR.
 Clone this project to your own server, replace the domain name in `boycott-ie.js` and use
   
 ## 中文
+支持109种语言的提示用户停用IE浏览器的开源项目
+
 当IE浏览器（包括使用IE内核的浏览器）访问网站的时候将判断用户语言后自动跳转到对应语言（支持109种语言）浏览器升级提示页面。
 
 我计划尽可能支持更多语言，使全世界开发者乐意去使用，以便世界各地的人们换用更先进的浏览器
