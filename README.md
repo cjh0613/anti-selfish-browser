@@ -7,7 +7,7 @@
 README language: English | 中文介绍请下拉
 
 ## English
-This is the first open source project in the world that supports 109 languages to prompt users to stop using IE.
+This is the first open source project in the world that supports 109 languages to prompt users to stop using IE.https://boycott-ie.github.io/boycott-ie
 
 When the IE browser (including the browser using the IE kernel) accesses the website, it will automatically jump to the browser upgrade page.
 
@@ -39,7 +39,7 @@ Welcome to submit versions in other languages by PR.
 Clone this project to your own server, replace the domain name in `boycott-ie.js` and use
   
 ## 中文
-支持109种语言的提示用户停用IE浏览器的开源项目
+支持109种语言的提示用户停用IE浏览器的开源项目https://boycott-ie.github.io/boycott-ie
 
 当IE浏览器（包括使用IE内核的浏览器）访问网站的时候将判断用户语言后自动跳转到对应语言（支持109种语言）浏览器升级提示页面。
 
@@ -52,7 +52,7 @@ Clone this project to your own server, replace the domain name in `boycott-ie.js
 <script src="https://boycott-ie.github.io/boycott-ie/boycott-ie.js"></script>
 ```
 
- 看到这个https://support.dmeng.net/upgrade-your-browser.html
+ 看到[这个](https://support.dmeng.net/upgrade-your-browser.html)
  
  但是没有英文界面，于是开发此多语言（109语言）版本，欢迎各位PR
  
