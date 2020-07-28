@@ -12,7 +12,7 @@ Please confirm whether you have done the following:
 Please make sure you have tried the following methods:
 1. Read the README.md and the instructions carefully
 2. Search all existing issues, whether open or close
-3. Search www.google.com www.baidu.com
+3. Search    google.com
 4. Go to the giiier chat room to view historical chat records and ask questions
 
 If it still can't be solved, please issue.
