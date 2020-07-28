@@ -4,7 +4,9 @@
 
 [![GitHub release](https://img.shields.io/github/release/boycott-ie/boycott-ie.svg?label=%E7%89%88%E6%9C%AC)](https://github.com/boycott-ie/boycott-ie/releases/tag/)   ![GitHub top language](https://img.shields.io/github/languages/top/boycott-ie/boycott-ie.svg)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/boycott-ie/boycott-ie.svg)  ![GitHub repo size](https://img.shields.io/github/repo-size/boycott-ie/boycott-ie.svg) ![GitHub](https://img.shields.io/github/license/boycott-ie/boycott-ie.svg) ![platforms](https://img.shields.io/badge/platform-win32%20%7C%20win64%20%7C%20linux%20%7C%20osx-brightgreen.svg)     [![GitHub issues](https://img.shields.io/github/issues/boycott-ie/boycott-ie.svg)](https://github.com/boycott-ie/boycott-ie/issues)  [![GitHub closed issues](https://img.shields.io/github/issues-closed/boycott-ie/boycott-ie.svg)](https://github.com/boycott-ie/boycott-ie/issues?q=is%3Aissue+is%3Aclosed) ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/boycott-ie/boycott-ie.svg)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/boycott-ie/boycott-ie.svg)  ![GitHub contributors](https://img.shields.io/github/contributors/boycott-ie/boycott-ie.svg)
 
-README language: English | 中文介绍请下拉
+ English | 中文介绍请下拉
+ 
+## [Donate](https://cjh0613.github.io)
 
 ## English
 This is the first open source project in the world that supports 109 languages to prompt users to stop using IE.https://boycott-ie.github.io/boycott-ie
