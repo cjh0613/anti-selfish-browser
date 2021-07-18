@@ -39,8 +39,14 @@ If it still can't be solved, please issue.
 ## Actual behaviour 实际行为
 <!--
 Please give me the screenshots to locate the issue
+Please paste the content that can be copied below, such as error reporting, to make it easier for others to search.
 -->
 
+```
+
+paste here
+
+```
 
 ## Steps to reproduce the behaviour 重现步骤
 
