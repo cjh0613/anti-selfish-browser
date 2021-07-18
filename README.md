@@ -32,7 +32,10 @@ Now the English document is not quite perfect, welcome to submit the optimizatio
 
 ## [Donate](https://sponsor.cjh0613.com/index.html) 
 
+## Summary
 ## Documentation
+
+Demo: use IE or Chinese browser : https://cjh0613.github.io/anti-selfish-browser
 
 This is the first open source project in the world that supports 105 languages to prompt users to stop using IE.
 
@@ -75,9 +78,6 @@ You are welcome to submit（pull request）the version of your native language.
 ```
 
 Welcome to submit versions in other languages by PR.
-
-
-## Summary
 
 
 If you like this repo, please **click "Star" as support**, thank you!
