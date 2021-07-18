@@ -32,6 +32,8 @@
 
 望諸君不助其倀。雖小站之星星之火，必成燎原之勢。
 
+大家可以加入這個群組，共商反壟斷大計。 https://t.me/anti_monopoly
+
 示例：請使用 IE 或者中國內地瀏覽器打開這個頁面 https://cjh0613.github.io/anti-selfish-browser
 
 ```
