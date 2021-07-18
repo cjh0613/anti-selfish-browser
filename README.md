@@ -3,7 +3,7 @@
     <img src="https://cdn.jsdelivr.net/gh/cjh0613/blog/images/icons/CJHicon.jpg" width="100" height="100">
   </a>
 </div>
-<h2 align="center">cjh-github-template</h2>
+<h2 align="center">anti-selfish-browser</h2>
 <p align="center">
 Language: <a href="https://github.com/cjh0613/anti-selfish-browser/blob/master/README.md" target="_blank" rel="noopener noreferrer">English</a>
   | <a href="https://github.com/cjh0613/anti-selfish-browser/blob/master/README_zh.md" target="_blank" rel="noopener noreferrer">文言</a>
