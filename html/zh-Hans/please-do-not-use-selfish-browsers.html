@@ -6,7 +6,7 @@
 <meta http-equiv=X-UA-Compatible content="IE=Edge,chrome=1">
 <meta name=viewport content="width=device-width, initial-scale=1.0">
 <title>请更换您的浏览器</title>
-<meta name=description content=这是一个开放的更换浏览器提示页，普通用户可通过本页介绍快速了解为何要更换旧版自私的浏览器浏览器以及如何更换浏览器，开发者可引用本页提供的代码为网站接入旧版自私的浏览器更换提示。>
+<meta name=description content="这是一个开放的更换浏览器提示页，普通用户可通过本页介绍快速了解为何要更换自私的浏览器浏览器以及如何更换浏览器，开发者可引用本项目的代码为网站接入自私的浏览器更换提示。">
 <meta http-equiv=Cache-Control content=no-siteapp>
 <meta http-equiv=Cache-Control content=no-transform>
 <link href="../../css/main.css" rel="stylesheet" type="text/css" />
@@ -27,21 +27,24 @@
 <h2>更先进的浏览器</h2>
 <p>安装、使用一个新的浏览器并没有您想象中的那样困难，通常不会浪费您很长的时间，但却可以保护您，使您免遭自私的浏览器的侵害，提升您的使用体验。</p>
 <p class=targetline>推荐使用以下浏览器的最新版本，点击进入官方下载页面。如果您的电脑已安装以下浏览器的最新版本，直接使用该浏览器访问即可。</p>
-<p>另外，以下部分浏览器，如 Opera、Mozilla Firefox ，有中国内地特供版。建议下载台湾版浏览器，然后再改为您所使用语言。请注意鉴别，不要在中国内地的软件分发平台下载。</p>
+<p>另外，以下部分浏览器，如 Mozilla Firefox ，有中国内地特供版。建议下载台湾版浏览器，然后再改为您所使用语言。请注意鉴别，不要在中国内地的软件分发平台下载。</p>
 
 <ul id=browser-list class=browser-list>
- <li class="browser chrome">
- <a target="_blank" rel="noopener" href="https://www.google.cn/chrome/" id=browser-chrome-link><img src="../../icon/chrome.png" width=34 height=34 alt=谷歌浏览器>谷歌浏览器 <span id=browser-chrome-badge>Google Chrome</span></a>
- </li>
  <li class="browser firefox">
  <a target="_blank" rel="noopener" href="https://www.mozilla.org/zh-tw" id=browser-firefox-link><img src="../../icon/firefox.png" width=34 height=34 alt=火狐浏览器>火狐浏览器<span id=browser-firefox-badge>Mozilla Firefox</span></a>
+ </li>
+<li class="browser vivaldi">
+<a target="_blank" rel="noopener" href="https://vivaldi.com/zh-hant/" id=browser-vivaldi-link><img src="../../icon/vivaldi.png" width=34 height=34 alt=Vivaldi 浏览器>Vivaldi 浏览器 <span id=browser-vivaldi-badge>Vivaldi</span></a>
+</li>
+<li class="browser brave">
+<a target="_blank" rel="noopener" href="https://brave.com/zh/" id=browser-brave-link><img src="../../icon/brave.png" width=34 height=34 alt=brave 浏览器>Brave 浏览器 <span id=browser-brave-badge>Brave</span></a>
+</li>
+ <li class="browser chrome">
+ <a target="_blank" rel="noopener" href="https://www.google.cn/chrome/" id=browser-chrome-link><img src="../../icon/chrome.png" width=34 height=34 alt=谷歌浏览器>谷歌浏览器 <span id=browser-chrome-badge>Google Chrome</span></a>
  </li>
  <li class="browser edge">
  <a target="_blank" rel="noopener" href="https://www.microsoft.com/zh-tw/edge" id=browser-edge-link><img src="../../icon/edge.png" width=34 height=34 alt=微软浏览器>微软浏览器<span id=browser-edge-badge>Microsoft Edge</span></a>
  </li>
-<li class="browser opera">
-<a target="_blank" rel="noopener" href="https://www.opera.com/zh-tw" id=browser-opera-link><img src="../../icon/opera.png" width=34 height=34 alt=欧朋浏览器>欧朋浏览器 <span id=browser-opera-badge>Opera</span></a>
-</li>
  </ul>
 <div class=hr></div>
 <h2>为什么会出现这个页面？</h2>
@@ -56,7 +59,7 @@
 <li>一刀切地“按照中国内地政策屏蔽网页”，即使您不在内地范围。长臂管辖。</li>
 <li>恶意屏蔽它们自认为「有害」的网站（如，以违反法律法规为由恶意拦截 https://996.icu 这个维护中国内地劳动法的项目……）。</li>
 <li>内置的搜索引擎无法更改，或者只能使用限定的几个搜索引擎。</li>
-<li>启动时检查检查是否是“默认浏览器”，以“安全”名义向用户疯狂暗示要将他家的浏览器、导航设置为默认。</li>
+<li>启动时检查是否是“默认浏览器”，以“安全”名义向用户疯狂暗示要将他家的浏览器、导航设置为默认。</li>
 <li>捆绑安装一些其他流氓软件（游戏盒子、杀毒、音乐、视频、资讯、导航全家桶等），以达到提升广告销售、软件装机量等目的。而且这个浏览器自己本身可能就是被病毒捆绑安装到系统上的（难以卸载）。</li>
 <li>使用流氓级证书。历史上，有浏览器 <a href='https://www.ssldun.com/html/notice/show-136.html'>私自搭建根证书信任列表</a> ，而它可能会严重危害您的私密数据安全（<a href='https://zh.wikipedia.org/wiki/%E6%A0%B9%E8%AF%81%E4%B9%A6'>了解根证书是什么（中国内地无法打开）</a>）。曾出现过 12306 网站不受信任，无法付款 的情况。</li>
 <li>很多自私的浏览器，没有核心技术，使用其他浏览器内核，但是内核更新慢，有安全风险。</li>
