@@ -35,7 +35,7 @@ Now the English document is not quite perfect, welcome to submit the optimizatio
 ## Summary
 ## Documentation
 
-If ou can speak Chinese, join this group to discuss the anti-trust plan together. https://t.me/anti_monopoly
+~~If ou can speak Chinese, join this group to discuss the anti-trust plan together.~~
 
 Demo: use IE or Chinese browser : https://cjh0613.github.io/anti-selfish-browser
 
